@@ -1,4 +1,4 @@
-# dockit-php71-fpm
+# dockit-php70-fpm
 PHP 7.0 image for Dockit.
 
 Includes the PHP modules:
